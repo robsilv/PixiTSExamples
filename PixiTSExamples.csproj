@@ -23,6 +23,7 @@
     <Content Include="examples\example 2 - SpriteSheet\index.html" />
     <Content Include="examples\example 2 - SpriteSheet\indexTrim.html" />
     <Content Include="examples\example 3 - MovieClip\index.html" />
+    <Content Include="examples\example 4 - Balls\index.html" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -39,6 +40,8 @@
     <TypeScriptCompile Include="examples\example 2 - SpriteSheet\Example2A.ts" />
     <TypeScriptCompile Include="examples\example 2 - SpriteSheet\Example2B.ts" />
     <TypeScriptCompile Include="examples\example 3 - MovieClip\Example3.ts" />
+    <TypeScriptCompile Include="examples\example 4 - Balls\Example4.ts" />
+    <TypeScriptCompile Include="lib\jquery.d.ts" />
     <TypeScriptCompile Include="lib\pixi.d.ts" />
     <TypeScriptCompile Include="lib\webgl.d.ts" />
   </ItemGroup>
