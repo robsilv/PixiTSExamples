@@ -7,7 +7,6 @@ examples/**/*.js.map
 
 ## Ignore web.config files - not relevant to this project.
 
-Web.config
 Web.*.config
 
 # User-specific files
